@@ -166,7 +166,7 @@ app.spamAllRooms = function() {
     app.spamOneRoom(key);
     setTimeout(function() {}, 1000);
   }
-}
+};
 
 // random tweet generator
 var opening = ['just', '', '', '', '', 'ask me how i', 'completely', 'nearly', 'productively', 'efficiently', 'last night i', 'the president', 'that wizard', 'a ninja', 'a seedy old man'];
